@@ -2,7 +2,7 @@
     Hi, I'm Douglas Souza! 👋
 </h1>
 
-## I'm a BackEnd Developer and Ethical Hacker Brasilian passionate about technology 🇧🇷
+## I'm a Brasilian BackEnd Developer and Ethical Hacker passionate about technology 🇧🇷
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagurasujava/)
 
