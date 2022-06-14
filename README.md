@@ -32,15 +32,14 @@ Dynamic, proactive, self-taught, self-managed, evaluator, critic, planner, analy
 <p>
   <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
   <code><img href="#" title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img href="#" title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img href="#" title="CSS" height="25" src="images/css.svg"></code>
-  <code><img href="#" title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img href="#" title="HTML5" height="25" src="images/html5-original-wordmark.svg"></code>
+  <code><img href="#" title="CSS" height="25" src="images/css3-original-wordmark.svg"></code>
+  <code><img href="#" title="SASS" height="25" src="images/sass-original.svg"></code>
   <code><img href="#" title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img href="#" title="React" height="25" src="images/react-original.svg"></code>
+  <code><img href="#" title="React" height="25" src="images/react-original-wordmark.svg"></code>
   <code><img href="#" title="Git" height="25" src="images/git-original.svg"></code>
   <code><img href="#" title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img href="#" title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img href="#" title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img href="#" title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img href="#" title="Java" height="25" src="images/java-original.svg"></code>
   <code><img href="#" title="JSON" height="25" src="images/json.svg"></code>
