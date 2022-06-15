@@ -58,8 +58,3 @@ Dynamic, proactive, self-taught, self-managed, evaluator, critic, planner, analy
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br/>
----
-
-## README version
-
-[English 🇺🇸](./README.md)
