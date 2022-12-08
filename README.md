@@ -27,7 +27,7 @@ Dynamic, proactive, self-taught, self-managed, evaluator, critic, planner, analy
 ---
 
   <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Dagurasu56&theme=react-dark&bg_color=20232a&hide_border=true" />
+
 <h2>🔥 Languages & Framework 🔥</h2><br />
 <p>
   <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
